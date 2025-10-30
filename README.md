@@ -48,5 +48,4 @@ Contributions are welcome. Follow these steps:
 This repository is free to use for educational purposes. Feel free to adapt and share.
 
 ---
-
 Happy coding! Keep practicing and iterate — mastery takes consistent effort.
