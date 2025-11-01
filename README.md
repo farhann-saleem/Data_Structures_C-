@@ -26,11 +26,7 @@ Welcome to your third-semester C++ Data Structures & Algorithms playground. This
    - Greedy algorithms
    - Tries, Heaps, Disjoint Set
 
-## Study Plan
-- Week 1-3: Fundamentals & STL
-- Week 4-6: Linear Structures & Trees
-- Week 7-9: Graphs & Algorithms
-- Week 10-12: Advanced Topics & Project
+
 
 ## How to use this repo
 - Browse `TASK1-2` and `TASK3` folders for practice files and previous labs.
