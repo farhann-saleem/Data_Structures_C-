@@ -1,6 +1,5 @@
 # Journey to Master C++ Data Structures & Algorithms
 
-![C++ Logo](./cpp-logo.svg)
 
 Welcome to your third-semester C++ Data Structures & Algorithms playground. This repository is designed as a focused journey to help you master DSA concepts using C++. Whether you're preparing for exams, interviews, or personal growth, follow the roadmap and exercises to build strong problem-solving skills.
 
